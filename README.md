@@ -1,6 +1,2 @@
 # TeknikServis
- Mülakat Proje.
- 
- Admin yetkisi;
-email: oguz@oguz.com
-pass: 123
+.NetCore & jQuery -Devextreme ile mülakatta gönderilen task için yazdığım minimal teknik servis projesi.
